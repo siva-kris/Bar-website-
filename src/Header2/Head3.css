@@ -1,0 +1,12 @@
+/* .fix {
+  display: flex;
+  flex-wrap: wrap;
+  display: flex;
+} */
+.card-img {
+  height: 600px; /* Set your desired height */
+  object-fit: cover;
+}
+.set {
+  display: flex;
+}
